@@ -21,10 +21,6 @@ A smooth-scrolling, animated portfolio-style website clone using HTML, CSS, Java
 1. Clone this repo
 2. Open `index.html` in your browser (use Live Server for best results)
 
-## 📸 Preview
-
-![Preview]((https://imtushrpwar.github.io/Miranda-Paper-Clone-web/))
-
 ## 🔗 Credits
 
 Inspired by: [Miranda Webflow](https://miranda.webflow.io/)  
