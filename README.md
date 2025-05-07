@@ -23,7 +23,7 @@ A smooth-scrolling, animated portfolio-style website clone using HTML, CSS, Java
 
 ## 📸 Preview
 
-![Preview](https://imtushrpwar.github.io/Miranda-Paper-Clone-web/)
+![Preview]((https://imtushrpwar.github.io/Miranda-Paper-Clone-web/))
 
 ## 🔗 Credits
 
